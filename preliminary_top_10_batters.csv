@@ -1,0 +1,11 @@
+striker_id,striker_name,pressure_runs,pressure_balls,pressure_dismissals,pressure_fours,pressure_sixes,pressure_strike_rate,normal_runs,normal_balls,normal_strike_rate,strike_rate_difference,pressure_sample_ok,normal_sample_ok
+7049,Kamil Mishara,72,33,1,5,5,218.18,444,389,114.14,104.04,True,True
+332,Angelo Mathews,160,93,4,16,7,172.04,46,61,75.41,96.63,True,True
+2930,Rassie van der Dussen,142,75,4,10,10,189.33,247,243,101.65,87.68,True,True
+8301,Asif Khan,174,90,5,13,15,193.33,129,117,110.26,83.07,True,True
+7446,Abdul Samad,592,382,27,41,40,154.97,43,59,72.88,82.09,True,True
+8652,Mohammad Ishaq,83,49,2,3,6,169.39,80,88,90.91,78.48,True,True
+2533,Najibullah Zadran,249,144,6,16,20,172.92,175,183,95.63,77.29,True,True
+8739,Muhammad Irfan,139,81,6,11,9,171.6,109,114,95.61,75.99,True,True
+126,Rohit Sharma,112,53,2,10,8,211.32,2217,1632,135.85,75.47,True,True
+23311,Jacob Bethell,167,83,5,4,18,201.2,502,385,130.39,70.81,True,True
